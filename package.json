@@ -12,6 +12,6 @@
   "devDependencies": {
     "copyfiles": "^2.1.0",
     "rxjs": "^6.1.0",
-    "typescript": "^3.3.3"
+    "typescript": "^3.8.3"
   }
 }
